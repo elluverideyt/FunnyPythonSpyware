@@ -1,5 +1,3 @@
-# Made by MalwareMakers 
-# Github : https://github.com/MalwareMakers
 from rich.console import Console
 from src.gen import *
 from src.install_builder import *

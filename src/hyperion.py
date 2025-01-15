@@ -1,10 +1,3 @@
-# Credits: 
-# Though I'd love to have said I made this magnificent work of art - I didnt. 
-# The maker of this software is none other than billythegoat356
-# Heres where I downloaded this software from: https://github.com/billythegoat356/Hyperion
-
-# Billy if you ever read this, I apologise for the usage of the software in this way but I became very desperate, and needed a reliable way of obfuscating my payloads without absolute idiots putting them into Virus Total and other av's directly just to 'test' them.
-
 from builtins import *
 
 builtglob = list(globals().keys())

@@ -1,6 +1,3 @@
-# Made by MalwareMakers 
-# Github : https://github.com/MalwareMakers
-
 import logging
 from rich.logging import RichHandler
 from src.file_encoder import *
@@ -22,8 +19,6 @@ class System_Gen:
         log.info("Begining Payload Creation!")
         try:
             code = r'''
-# Made By MalwareMakers
-# Github : https://github.com/MalwareMakers
 
 import os
 import requests

@@ -1,6 +1,3 @@
-# Made by MalwareMakers 
-# Github : https://github.com/MalwareMakers
-
 import random
 import string
 
